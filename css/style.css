@@ -62,7 +62,7 @@ a {
 }
 
 .first {
-    background: url(/image/third.jpg)no-repeat center center/cover;
+    background: url(../image/third.jpg)no-repeat center center/cover;
     height: 650px;
     color: #fff;
     font-size: 4em;
@@ -81,7 +81,7 @@ a {
 
 #aboutpage {
     height: 700px;
-    background: url(/image/profileBack.jpg) no-repeat center center/cover;
+    background: url(../image/profileBack.jpg) no-repeat center center/cover;
   }
   #aboutpage .containtitle {
     padding-top: 70px;
@@ -159,7 +159,7 @@ a {
 #project {
     margin: 0;
     padding: 0;
-    background: url(/image/wallpaper.jpg) no-repeat center center/cover;
+    background: url(../image/wallpaper.jpg) no-repeat center center/cover;
     height: 700px;
   }
   #project .project-spacing {
@@ -191,7 +191,7 @@ a {
     padding-top: 70px;
     border: 0 solid black;
     border-radius: 15px;
-    background: url("/image/CODES.jpg") no-repeat center center/cover;
+    background: url("../image/CODES.jpg") no-repeat center center/cover;
     margin: 0 20px;
   }
   .images .frame2 {
@@ -200,7 +200,7 @@ a {
     padding-top: 70px;
     border: 0 solid black;
     border-radius: 15px;
-    background: url("/image/FOOD.jpg") no-repeat center center/cover;
+    background: url("../image/FOOD.jpg") no-repeat center center/cover;
     margin: 0 20px;
   }
   #project .images .frame3 {
